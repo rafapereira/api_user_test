@@ -9,7 +9,7 @@ Criação de BDDs, relatórios, organização e gerenciamento de casos e massa d
 ### JUnit
 Asserts/Validação de testes;
 
-###Rest Assured
+### Rest Assured
 Realização de requisições, validação de status codes;
 
 ### Lombok e Jackson
