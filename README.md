@@ -17,4 +17,4 @@ Asserts/Validação de testes;
 Realização de requisições, validação de status codes;
 
 ### Lombok e Jackson
-Criação, gerenciamento e mapeamento dos Objetos;
+Criação, gerenciamento e mapeamento dos Objetos.
